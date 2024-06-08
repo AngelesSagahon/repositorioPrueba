@@ -1,0 +1,66 @@
+#logo {
+    height: 80px ;
+}
+#tecnm {
+    height: 80px;
+    float: right;
+}
+body {    
+    background-color: black;
+}
+nav {
+    text-align: center;
+    background-color: grey;
+    padding: 10px;
+}
+ul {
+    list-style: none;
+}
+li {
+    display: inline-block;
+    padding: 0px 100px 0px 100px;
+}
+a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+div {
+    background-image: url(recursos/Escenario\ final.png);
+    height: 400px;    
+}
+#player {
+    height: 390px;
+}
+.texto {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+#uno {
+    position: absolute;
+    top: 200px;
+    right: 670px;
+}
+#dos {
+    position: absolute;
+    top: 270px;
+    right: 750px;
+}
+#tres {
+    position: absolute;
+    top: 340px;
+    right: 700px;
+}
+#cuatro {
+    position: absolute;
+    top: 410px;
+    right: 780px;
+}
+footer {
+    text-align: center;
+}
+p {
+    color: white;
+}
